@@ -1,6 +1,6 @@
 /*URL*/
 cite,
-cite>span {
+cite > span {
   color: green !important;
 }
 
@@ -59,7 +59,11 @@ div.q0vns span.DDKf1c {
   margin-right: 6px;
 }
 
-div.q0vns>span {
+div.q0vns > span {
   display: none;
 }
 
+a:hover h3.LC20lb {
+  font-size: 22px !important;
+  line-height: 28px !important;
+}
